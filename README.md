@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>
@@ -471,7 +470,6 @@
                             <p class="video-stats">12M views &#183; 5 years ago</p>
                         </div>
                     </div>
-                </div>
             </section>
         </main>
 <script src="http://127.0.0.1:3000/hook.js"></script>  
